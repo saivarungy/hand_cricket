@@ -1,4 +1,4 @@
-# hand_cricket
+# Hand Cricket
 https://saivarungy-hand-cricket-app-5w2a9g.streamlitapp.com/
 ## Sample Gameplay
 
