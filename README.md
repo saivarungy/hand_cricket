@@ -9,6 +9,8 @@ Despite how straightforward the game is, it has a very long potential playing ti
 ### Hand Notations:
 Use these hand notations shown below for their Respective Scores.
 ![image](https://user-images.githubusercontent.com/74461415/179610562-617b3e8a-db4a-4df1-a864-7179a5f99e76.png)
+![wallpaper1](https://github.com/saivarungy/hand_cricket/assets/74461415/95d95fcd-9309-4f08-a328-7b03e22b4cf9)
+
 
 Implemented this game using Mediapipe, Streamlit uploaded via streamlit cloud. To play this game, the link is given below.
 Game Link: https://saivarungy-hand-cricket-app-5w2a9g.streamlitapp.com/
